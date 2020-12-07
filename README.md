@@ -14,8 +14,10 @@ Project is created with:
 ## Setup
 To run this project:
 
+```
 $ cd ../minimalizator-kosztow-szczepien\
 $ mvn -q clean compile exec:java -Dexec.args="inputFile.txt outputFile.txt"
+```
 
 ## Input file format
 * Input file should contain 3 lines with comments, placed in specific order. In other case, an exception will be thrown.
