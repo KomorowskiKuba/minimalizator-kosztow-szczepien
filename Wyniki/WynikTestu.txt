@@ -1,0 +1,2 @@
+xyz -> zxy [Koszt = 500 * 55.3 = 27650.0]
+Oplaty calkowite: 27650.0 zl

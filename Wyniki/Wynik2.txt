@@ -1,0 +1,5 @@
+BioTech 2.0 -> CentMedEko Nowogrodzka [Koszt = 600 * 70.0 = 42000.0]
+Eko Polska 2020 -> CentMedEko Nowogrodzka [Koszt = 600 * 80.0 = 48000.0]
+BioTech 2.0 -> CentMedEko Centrala [Koszt = 300 * 70.5 = 21150.0]
+Eko Polska 2020 -> CentMedEko Centrala [Koszt = 150 * 100.0 = 15000.0]
+Oplaty calkowite: 126150.0 zl

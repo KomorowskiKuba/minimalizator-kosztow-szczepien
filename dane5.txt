@@ -1,0 +1,18 @@
+# Producenci szczepionek (id | nazwa | dzienna produkcja)
+0 | Hegmann Inc | 296
+1 | Russel-Flatley | 439
+2 | Runolfsson Steuber and Lakin | 708
+3 | Hirthe PLC | 56
+4 | Wolf-Huels | 561
+# Apteki (id | nazwa | dzienne zapotrzebowanie)
+0 | Cremin Herman and Beatty | 123
+1 | Labadie Mante and Hackett | 31
+2 | Bednar Welch and Baumbach | 22
+3 | Moen Marks and Schaefer | 55
+4 | Keeling Kilback and Bailey | 21
+# Połączenia producentów i aptek (id producenta | id apteki | dzienna maksymalna liczba dostarczanych szczepionek | koszt szczepionki [zł] )
+0 | 0 | 256 | 87.88
+1 | 1 | 205 | 99.12
+2 | 2 | 288 | 64.85
+3 | 3 | 195 | 71.51
+4 | 4 | 293 | 75.98

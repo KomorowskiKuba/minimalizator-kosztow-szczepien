@@ -1,0 +1,4 @@
+# Producenci szczepionek (id | nazwa | dzienna produkcja)
+0 | BioTech 2.0 | 900 | 32.11
+1 | Eko Polska 2020 | 1300 | 50.99
+2 | Post-Covid Sp. z o.o. | 1100 | 1000
