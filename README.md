@@ -11,7 +11,7 @@ Project is created with:
 * Java 11
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project:
 
-$ cd ../minimalizator-kosztow-szczepien
+$ cd ../minimalizator-kosztow-szczepien\
 $ mvn -q clean compile exec:java -Dexec.args="inputFile.txt outputFile.txt"
