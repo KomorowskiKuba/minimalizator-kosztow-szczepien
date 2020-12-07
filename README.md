@@ -2,6 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Input file format](#input-file-format)
 
 ## General info
 The main goal of the program is to minimize the total amount of vaccines purchased by pharmacies while meeting the vaccine needs of each pharmacy.
@@ -24,15 +25,15 @@ $ mvn -q clean compile exec:java -Dexec.args="inputFile.txt outputFile.txt"
 
 Sample file:
 
-&#35 Producenci szczepionek (id | nazwa | dzienna produkcja)\
+\# Producenci szczepionek (id | nazwa | dzienna produkcja)\
 0 | BioTech 2.0 | 900\
 1 | Eko Polska 2020 | 1300\
 2 | Post-Covid Sp. z o.o. | 1100\
-&#35 Apteki (id | nazwa | dzienne zapotrzebowanie)\
+\# Apteki (id | nazwa | dzienne zapotrzebowanie)\
 0 | CentMedEko Centrala | 450\
 1 | CentMedEko 24h | 690\
 2 | CentMedEko Nowogrodzka | 1200\
-&#35 Połączenia producentów i aptek (id producenta | id apteki | dzienna maksymalna liczba dostarczanych szczepionek | koszt szczepionki [zł] )\
+\# Połączenia producentów i aptek (id producenta | id apteki | dzienna maksymalna liczba dostarczanych szczepionek | koszt szczepionki [zł] )\
 0 | 0 | 800 | 70.5\
 0 | 1 | 600 | 70\
 0 | 2 | 750 | 90.99\
