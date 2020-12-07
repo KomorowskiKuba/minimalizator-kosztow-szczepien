@@ -1,0 +1,1 @@
+# minimalizator-kosztow-szczepien
