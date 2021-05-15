@@ -5,7 +5,7 @@
 * [Input file format](#input-file-format)
 
 ## General info
-The main goal of the program is to minimize the total amount of vaccines purchased by pharmacies while meeting the vaccine needs of each pharmacy.
+The main goal of the program is to minimize the total amount of vaccines purchased by pharmacies while meeting the vaccine needs of each pharmacy. To do this, the program uses the simplex algorithm.
 	
 ## Technologies
 Project is created with:
